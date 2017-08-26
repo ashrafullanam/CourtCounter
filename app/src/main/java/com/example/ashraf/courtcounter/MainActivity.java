@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
         scoreTeamB = scoreTeamB + 1;
         displayForTeamB(scoreTeamB);
     }
-
+  //hope
     /**
      * Increase the score for Team B by 2 points.
      */
